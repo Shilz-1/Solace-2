@@ -713,5 +713,19 @@ input{
     margin-top: -4em;
 }
 
-    
+   .newsletter{
+    text-align: left;
+   }  
+   
+   .first{
+    margin-top: -2.6em;
+   }
+
+   .second{
+    margin-top: 6em;
+   }
+
+   .two{
+    margin-top: -2em;
+   }
 }
